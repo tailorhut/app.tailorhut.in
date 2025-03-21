@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.tailorhut.in",
+      "sha256_cert_fingerprints":
+        ["46:77:C9:D5:1B:A0:C6:F5:13:44:9E:4D:DB:BB:05:11:B2:D1:1D:EE:23:91:37:05:63:C9:30:01:91:57:8A:2E"]
+    }
+  }
+]
